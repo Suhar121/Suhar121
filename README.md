@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhar Yaseen</h1>
 <h3 align="center">A passionate Full Stack developer And Business Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Suhar121/Suhar121&label=Profile%20views&color=0e75b6&style=flat" alt="suhar121" /> </p
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Suhar121/&label=Profile%20views&color=0e75b6&style=flat" alt="suhar121" /> </p
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhar121" alt="suhar121" /></a> </p>
 
