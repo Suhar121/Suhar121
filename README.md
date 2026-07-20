@@ -34,7 +34,7 @@
 name:       Suhar Yaseen
 role:       Full Stack Developer
             Business Analyst
-location:   India 🇮🇳
+location:   India
 email:      Suharyaseen36@gmail.com
 
 focus:
