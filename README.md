@@ -236,38 +236,7 @@ An AI beauty app with a glassmorphism UI, an animated scan flow, and a before/af
 </div>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e2016,100:b33f1f&height=3" width="100%"/>
-
-<h2 align="center">GitHub Activity</h2>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhar121&hide_border=true&background=1b120c&ring=e2a33b&fire=b33f1f&currStreakLabel=e2a33b&sideLabels=efe1c8&dates=efe1c8&stroke=2e2016" width="70%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suhar121&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhar121&hide_border=true&bg_color=1b120c&color=e2a33b&line=b33f1f&point=2c6e75&area=true&area_color=e2a33b" width="100%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e2016,100:b33f1f&height=3" width="100%"/>
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e2016,100:b33f1f&height=3" width="100%"/> <h2 align="center">GitHub Activity</h2> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhar121&hide_border=true&background=1b120c&ring=e2a33b&fire=b33f1f&currStreakNum=e2a33b&sideNums=e2a33b&currStreakLabel=efe1c8&sideLabels=efe1c8&dates=efe1c8&stroke=2e2016" width="70%"/> </div> <br/> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=suhar121&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/> </div> <br/> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhar121&hide_border=true&bg_color=1b120c&color=e2a33b&line=b33f1f&point=2c6e75&area=true&area_color=e2a33b" width="100%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e2016,100:b33f1f&height=3" width="100%"/> <h2 align="center">Contribution Snake</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake.svg"/> <img alt="github-snake" src="https://raw.githubusercontent.com/suhar121/suhar121/output/github-snake-dark.svg" width="100%"/> </picture>
 
 > Enable the snake: repo → **Actions** → search **"Snake"** → enable [Platane/snk](https://github.com/Platane/snk)
 
