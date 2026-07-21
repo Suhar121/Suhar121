@@ -20,7 +20,7 @@
 
 <br/>
 
-<p align="center"><i>Every project carries a bit of home — saffron fields, chinar red, and the light off Dal Lake.</i></p>
+<p align="center"><i>Every project carries a bit of home — saffron fields, chinar red, and the light off Dal Lake..</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e2016,100:b33f1f&height=3" width="100%"/>
 
